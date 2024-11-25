@@ -474,3 +474,6 @@ footer p {
     margin-bottom: 10px;
     max-height: 40px;
 }
+.tradingview-widget-container {
+    width: 100% !important;
+}
